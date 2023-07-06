@@ -38,6 +38,7 @@
   border-radius: 20px;
   -webkit-box-shadow: -4px 2px 13px -1px #000000; 
   box-shadow: -4px 2px 13px -1px #000000;
+  background-color:rgb(188, 134, 238) ;
 
 }
 .img{
@@ -164,4 +165,30 @@ input{
   color: inherit;
   text-decoration: none;
   font-weight: bold;
+}
+form{
+  align-items:center;
+  padding-left: 20px;
+  padding-top: 30px;
+}
+.postrech{
+  width: 245px;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+}
+.postuler{
+  width: 200px;
+  background-color:blueviolet;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 15px 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.title{
+  font-size: 24px;
+  margin-left: 100px;
+  padding-bottom: 20px;
 }
